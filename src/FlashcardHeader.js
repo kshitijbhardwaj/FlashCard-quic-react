@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Flashcard extends Component {
+export default class FlashcardHeader extends Component {
     render() {
         return (
             <div>
